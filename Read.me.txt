@@ -1,0 +1,40 @@
+# Nike Store Ecommerce Website
+
+This repository contains code for a responsive Nike Store Ecommerce Website. The website is built using HTML, CSS, and JavaScript.
+
+## Languages
+
+- HTML: 45.0%
+- CSS: 40.3%
+- JavaScript: 14.7%
+
+## About
+
+The Nike Store Ecommerce Website allows users to browse through different products such as Air Force, Air Jordan, Blazer, Crater, and Hippie. Users can view product details, select colors and sizes, and proceed to checkout.
+
+### Features
+
+- Responsive design
+- Slider showcasing featured products
+- Product details including title, price, description, colors, and sizes
+- Payment functionality with personal and card information input
+- Gallery section displaying images
+- New season arrivals section
+
+## Files
+
+- **index.html**: Main HTML file containing the structure of the website.
+- **style.css**: Cascading Style Sheets file containing the styles for the website layout and design.
+- **app.js**: JavaScript file containing the functionality for product selection, slider navigation, and payment process.
+
+## Usage
+
+Clone the repository to your local machine and open the `index.html` file in your web browser to view the Nike Store Ecommerce Website.
+
+```
+git clone https://github.com/BilalKhan028/nike-ecommerce
+```
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, feel free to submit a pull request.
